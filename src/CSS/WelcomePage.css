@@ -1,0 +1,42 @@
+/* WelcomePage.css */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.welcome-page-body {
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: #000000; /* Black background */
+    overflow: hidden;
+    margin: 0px;
+}
+
+.button {
+    padding: 15px 30px; /* Adjust padding for button size */
+    font-size: 1.5em; /* Adjust font size */
+    font-family: "Indie Flower", cursive;
+    background-color: #b21717; /* Red background */
+    color: #ffffff; /* White text */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    animation: colorChange 3s infinite; /* Continuous color change */
+}
+
+.button:hover {
+    background-color: #262fa3; /* Darker blue on hover */
+    transform: scale(1.1);
+}
+
+@keyframes colorChange {
+    0% { background-color: #b21717; }  /* Red */
+    33% { background-color: #9b9b9b; } /* White */
+    66% { background-color: #181fa7; } /* Blue */
+    100% { background-color: #b21717; }  /* Red */
+  }
