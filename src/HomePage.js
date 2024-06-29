@@ -58,7 +58,7 @@ function HomePage() {
 
         <div className="text-content">
           
-          <h1 className="title">A Monument to Adam Ritzel</h1>
+          <h1 className="title">A Monument to Adam Ritzels</h1>
 
           <div className="section">
             <h2 className="farewell-title">Accomplishments:</h2>
