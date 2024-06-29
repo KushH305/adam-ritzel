@@ -32,6 +32,7 @@ function HomePage() {
     { message: "Hey Adam, it's been great working with you on and off over the years. Thanks for starting the Sales Engineering team in the former ASL and putting together the estimate spreadsheets that so many of us have come to know and ... (ahem) love.. While I didn't get a chance to work directly with you on that team, your influence was felt by the whole team while I was there and your efforts opened up career opportunities that I had never before considered. Good luck in your next adventure, and hopefully we'll see you again at DAHO or elsewhere.", author: "- Nathaniel Bruening"},
     { message: "Adam taught me a lot about the power of candid conversation. He helped me by giving to me and helping me give to others candid feedback. More importantly, he helped create the Digital organization achieve success by being relentlessly unwilling to make compromises about talent and customer outcomes.", author: "- Daniel McCown"},
     { message: "Even after Adam leaves - he'll be in the DNA of our team: one of the best at telling a customer what they need to hear (not always what they want to hear) and instilling that honesty in all of us. He's also an NYC-level food snob in STL. Truly a pleasure working with you and we'll miss you!", author: "- Chris Infanti"},
+    { message: "Since I joined Digital in 2019, Adam set an example by creating a culture in the Digital Tech team that enabled us to tackle challenging problems while having fun. I've always felt supported and challenged to executre to the best of my ability while growing my skills. We've had to reinvent ourselves multiple times & took on larger and more difficult projects, and we'll have to continue using the skills Adam helped us hone as we move forward.", author: "- Mike Sullivan"},
     { message: "I hate Adam. He's the meanest man ever, always taking every chance he can to throw dirt on my name, and I will never trust him. Why don't you love me? I have feelings too.", author: "- Microsoft Teams" },
     { message: "Adam hopefully our relationship has gotten stronger over the years. I swear I'm trying. I just added new updates to better myself for you. Hopefully in the future you'll come to love me just as the way I love you.", author: "- Slack"},
     { message: "We only met briefly during our 'Meet The Dig Tech Team' but your vibes were immaculate. Very nice, open to help, and I wish I could've worked with you! Good luck in your new role!!", author: "- Riddhi Chaudhari"},
@@ -58,7 +59,7 @@ function HomePage() {
 
         <div className="text-content">
           
-          <h1 className="title">A Monument to Adam Ritzels</h1>
+          <h1 className="title">A Monument to Adam Ritzel</h1>
 
           <div className="section">
             <h2 className="farewell-title">Accomplishments:</h2>
